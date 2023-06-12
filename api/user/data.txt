@@ -4,3 +4,6 @@
 "email": "saif@gmail.com",
 "password": "saif_alhakeem@"
 }
+{
+    "content": "this is my second status"
+}
